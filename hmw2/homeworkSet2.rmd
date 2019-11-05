@@ -1,0 +1,8 @@
+---
+title: "hmw2_writeup"
+author: "Jason Needham"
+date: "11/5/2019"
+output: pdf_document
+---
+
+# Problem 1
