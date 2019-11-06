@@ -4,5 +4,21 @@ author: "Jason Needham"
 date: "11/5/2019"
 output: pdf_document
 ---
+```{r setup, include=FALSE}
+```
 
 # Problem 1
+
+## Approach
+
+In order to 
+
+## Code
+
+```{r}
+sequR <- function(filename, seqID){
+  
+}
+```
+
+## Results
